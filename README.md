@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of zeokat/flarum-ext-autoads.** Not for installation: use [Packagist](https://packagist.org/packages/zeokat/flarum-ext-autoads) or the [upstream repository](https://github.com/Zeokat/flarum-ext-autoads).
 
-**0** versions archived · Latest: [`v0.1`](https://github.com/flarchive/zeokat-flarum-ext-autoads/tree/archive/v0.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**1** versions archived · Latest: [`v0.1`](https://github.com/flarchive/zeokat-flarum-ext-autoads/tree/archive/v0.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1` | 2018-03-31 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zeokat-flarum-ext-autoads/tree/archive/v0.1) |
 
 Catalog entry: [packages/zeokat-flarum-ext-autoads.json](https://github.com/flarchive/archive-index/blob/main/packages/zeokat-flarum-ext-autoads.json)
 
